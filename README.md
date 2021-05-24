@@ -1,6 +1,6 @@
 # Plot_Vmaf
 Simple script for vmaf plotting.
-![](plot.png)
+![](examples/plot.png)
 
 ## Usage
 ```bash
